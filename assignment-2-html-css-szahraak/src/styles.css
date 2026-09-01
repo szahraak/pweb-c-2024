@@ -1,0 +1,132 @@
+/* TODO */
+body{
+    background-color: #F4F4F4;
+    margin: 20px, 20px, 44px, 20px;
+}
+
+.webTitle{
+    color: #333333;
+    text-align: center;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.identity{
+    color: #555555;
+    text-align: center;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.section1{
+    padding: 24px, 0, 24px, 0;
+}
+
+#Title1{
+    color: #555555;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 28px;
+}
+
+#Desc1{
+    color: #666666;
+    font-family: 'Arial Narrow';
+    font-stretch: condensed;
+    font-size: 16px;
+}
+
+.list{
+    text-align: center;
+    padding-bottom: 16px;
+}
+
+.list > div{
+    color: #666666;
+    font-family: 'Arial Narrow';
+    font-stretch: condensed;
+    font-size: 20px;
+    display: inline-block;
+    background-color: white;
+    width: calc(calc(100% / 3) - 9px);
+    margin-right: 6px;
+    border-radius: 10px;
+}
+
+.listAct{
+    color: #333333;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.buttonStop{
+    background-color: #E74C3C;
+    display: inline-block;
+    padding: 10px 16px 11px 16px;
+    margin: 23.5px 12px 17px 0;
+    border-radius: 5px;
+    color: white;
+    font-family: 'Arial Narrow';
+    font-stretch: condensed;
+    font-size: 16px;
+}
+
+.buttonStart{
+    background-color: #2ECC71;
+    display: inline-block;
+    padding: 10px 16px 11px 16px;
+    margin: 23.5px 0 17px 0;
+    border-radius: 5px;
+    color: white;
+    font-family: 'Arial Narrow';
+    font-stretch: condensed;
+    font-size: 16px;
+}
+
+.section2{
+    padding: 24px, 0, 24px, 0;
+}
+
+#Title2{
+    color: #555555;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 28px;
+}
+
+#Desc2{
+    color: #666666;
+    font-family: 'Arial Narrow';
+    font-stretch: condensed;
+    font-size: 16px;
+}
+
+table{
+    padding-top: 20px;
+    width: 100%;
+    text-align: center;
+    stroke: #DDDDDD;
+    stroke-width: 1px;
+}
+
+th{
+    color: white;
+    background-color: #4CAF50;
+    height: 52px;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+td{
+    color: #333333;
+    background-color: white;
+    width: calc(100% / 3);
+    height: 49px;
+    font-family: 'Arial Narrow';
+    font-stretch: condensed;
+    font-size: 16px;
+}

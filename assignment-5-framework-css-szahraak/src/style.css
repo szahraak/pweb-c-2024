@@ -1,0 +1,75 @@
+/* -- Code goes here -- */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+h1 {
+    color: #333;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 28px;
+    color: #555;
+    font-weight: bold;
+}
+  
+h4 {
+    font-size: 18px;
+    color: #555;
+    text-align: center;
+}
+  
+h5 {
+    font-size: 22px;
+    color: #333;
+    font-weight: bold;
+}
+  
+p {
+    font-size: 16px;
+    color: #666;
+}
+
+ul li div.activity-info .target-time {
+  font-size: 14px;
+  font-weight: 500;
+  color: #555;
+}
+
+button.stop {
+    background-color: #e74c3c;
+}
+  
+button.stop:hover {
+    background-color: #c0392b;
+}
+  
+button.start {
+    background-color: #2ecc71;
+}
+  
+button.start:hover {
+    background-color: #27ae60;
+}
+
+table {
+    width: 100%;
+}
+
+th {
+    background-color: #4caf50;
+    font-size: 18px;
+    font-weight: bold;
+}
+  
+td {
+    background-color: #fff;
+}
+  
+tbody tr:hover {
+    background-color: #f1f1f1;
+}
